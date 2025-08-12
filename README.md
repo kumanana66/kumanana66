@@ -29,6 +29,5 @@ Welcome to my GitHub profile! I'm passionate about coding and love working on in
 
 ---
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kumanana66&theme=radical)
 
 *Thanks for visiting my profile! Have a great day!* 😊
